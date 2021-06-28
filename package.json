@@ -1,0 +1,24 @@
+{
+  "name": "rem-converter",
+  "version": "1.0.0",
+  "description": "Convert all css rem values to a new base value",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herrpatrickmueller/rem-converter.git"
+  },
+  "keywords": [
+    "css",
+    "rem",
+    "util"
+  ],
+  "author": "Patrick Müller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herrpatrickmueller/rem-converter/issues"
+  },
+  "homepage": "https://github.com/herrpatrickmueller/rem-converter#readme"
+}
