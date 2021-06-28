@@ -1,7 +1,7 @@
 # CSS REM Converter
 Convert all css rem values to a new base value
 
-For example you have an existing project using rem units all over with a base font-size of 16px but for convience sake you prefere to work with a base font-size of 10px you could recaluclate them with this little script.
+For example you have an existing project using hunderts of rem units based on a font-size of 16px. But for convience sake, you prefere to work with a base font-size of 10px. This script recaluclates all rem values based on a new base font-size.
 
 ## Usage
 1. Copy the script to your project
